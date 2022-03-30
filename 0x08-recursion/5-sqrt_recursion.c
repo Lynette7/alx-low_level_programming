@@ -16,7 +16,7 @@ int _sqrt_recursion(int n)
 }
 
 /**
- * get_sqrt - Get the square root recursively
+ * find_sqrt - Get the square root recursively
  * @n: Number to get the square root
  * @sqr: Square root of the number
  *
