@@ -5,7 +5,11 @@
 - 4-O: What is the time complexity (worst case) of a binary search in an array of size n?
 - 5-O: What is the space complexity (worst case) of a binary search in an array of size n?
 - 6-O: What is the space complexity of this function / algorithm?
-[100-jump.c](./100-jump.c) | C function that searches for a value in a sorted array of integers using the Jump search algorithm
-[101-O](./101-O) | What is the time complexity (average case) of a jump search in an array of size n, using step = sqrt(n)?
-[107-O](./107-O) | What is the time complexity (average case) of a jump search in a singly linked list of size n, using step = sqrt(n)?
-[108-O](./108-O) | What is the time complexity (average case) of a jump search in a skip list of size n, with an express lane using step = sqrt(n)?
+- 100-jump.c: C function that searches for a value in a sorted array of integers using the Jump search algorithm
+- 101-O: What is the time complexity (average case) of a jump search in an array of size n, using step = sqrt(n)?
+- 102-interpolation.c: C function that searches for a value in a sorted array of integers using the Interpolation search algorithm
+- 103-exponential.c: C function that searches for a value in a sorted array of integers using the Exponential search algorithm
+- 104-advanced_binary.c: C function that searches for a value in a sorted array of integers
+- 105-jump_list.c: C function that 
+- 107-O: What is the time complexity (average case) of a jump search in a singly linked list of size n, using step = sqrt(n)?
+- 108-O: What is the time complexity (average case) of a jump search in a skip list of size n, with an express lane using step = sqrt(n)?
