@@ -10,6 +10,7 @@
 - 102-interpolation.c: C function that searches for a value in a sorted array of integers using the Interpolation search algorithm
 - 103-exponential.c: C function that searches for a value in a sorted array of integers using the Exponential search algorithm
 - 104-advanced_binary.c: C function that searches for a value in a sorted array of integers
-- 105-jump_list.c: C function that 
+- 105-jump_list.c: C function that searches for a value in a sorted list of integers using the Jump search algorithm
+- 106-linear_skip.c: C function that 
 - 107-O: What is the time complexity (average case) of a jump search in a singly linked list of size n, using step = sqrt(n)?
 - 108-O: What is the time complexity (average case) of a jump search in a skip list of size n, with an express lane using step = sqrt(n)?
